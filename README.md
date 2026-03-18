@@ -73,6 +73,16 @@ Hello, World!
 - Python 3.x
 - 无第三方依赖
 
+## 所用知识点
+
+1. 函数定义与调用（def 定义函数）
+2. 输入输出（input、print、end=''）
+3. 数据类型转换（int() 转整数）
+4. for 循环遍历字符串
+5. 条件判断（if-elif-else）
+6. 内置函数（ord()、chr()）
+7. 算术与取模运算（+、-、%）
+
 ## 参考资料
 
 - [CSDN博客 - 凯撒密码实现](https://blog.csdn.net/mxlmhgzw/article/details/8042273?fromshare=blogdetail&sharetype=blogdetail&sharerId=8042273&sharerefer=PC&sharesource=2401_87388105&sharefrom=from_link)
